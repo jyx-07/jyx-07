@@ -1,9 +1,7 @@
+### 📝 Latest Blog Posts
 
+[![Velog Post](https://velog-readme-stats.vercel.app/api?name=congyun)](https://velog.io/@congyun/posts)
 
-### 📝 Velog 최신 글
+### 🎧 Listening To
 
-[![Velog Post 1](https://velog-readme-stats.vercel.app/api?name=congyun)](https://velog.io/@congyun/posts)
-
-
-
-
+![Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=2Vk_o95vank&theme=terminal)
